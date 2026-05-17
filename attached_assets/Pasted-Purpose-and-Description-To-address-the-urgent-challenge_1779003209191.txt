@@ -1,0 +1,52 @@
+Purpose and Description
+To address the urgent challenge of marine ecosystem degradation in Zamboanga City, this project proposes the creation of a GoFundMe-inspired crowdfunding platform developed by programming students and organizers from Ateneo de Zamboanga University (AdZU).
+
+The platform will empower individuals to take direct action by funding initiatives such as coral adoption, marine animal sponsorship, cleanup drives, and micro-projects like mangrove restoration.
+
+Preserving marine life in Zamboanga is vital not only for protecting biodiversity but also for sustaining livelihoods, food security, and cultural heritage. By integrating education, gamification, and transparent funding mechanisms, the platform will transform public awareness into measurable local impact—safeguarding Zamboanga’s marine ecosystems while advancing UN Sustainable Development Goal 14: Life Below Water.
+
+Objectives
+General Objective
+To establish a crowdfunding website dedicated to marine conservation in Zamboanga City, designed and implemented by AdZU programming developers who deeply care about the ocean, fostering transparency, trust, and community-driven engagement.
+
+This initiative will:
+
+Show donors the real-world context of their contributions (e.g., coral habitats, sponsored marine creatures).
+
+Strengthen emotional bonds between donors and marine life, making conservation personal and meaningful.
+
+Raise awareness and educate the public about marine biodiversity, threats, and sustainable practices through accessible digital content.
+
+Specific Objectives
+Coral and Marine Adoption: Enable donors to adopt coral polyps, reef sections, or marine animals, with growth tracked via live reef maps and visibility tools (Aqualink, Corals of the World, National Geographic MapMaker).
+
+Cleanup Drives: Fund and mobilize volunteers for beach/ocean cleanups, with dashboards showing plastic removed and a “Wave of Supporters” recognition wall.
+
+Micro-Projects: Provide opportunities to support mangrove planting, water filtration, or marine education workshops, with progress bars showing real-time impact.
+
+Partnerships: Collaborate with NGOs, researchers, schools, and local communities in Zamboanga City for implementation, monitoring, and reporting.
+
+Scope and Limitation
+Scope
+The project encompasses the creation of a crowdfunding platform for marine conservation in Zamboanga City, designed by AdZU developers to support initiatives such as coral adoption, marine animal sponsorship, cleanup drives, and micro-projects like mangrove planting and marine education workshops.
+
+Key features include:
+
+Transparency tools: live reef maps, geotagged updates, donor recognition walls.
+
+Educational content: raising awareness about marine biodiversity and sustainable practices.
+
+Partnerships: with BFAR Zamboanga, NGOs, schools, and researchers for technical expertise and monitoring.
+
+Limitations
+Geographic scope: Initially limited to Zamboanga City and surrounding ecosystems; expansion considered after successful implementation.
+
+Data accuracy: Dependent on BFAR and partner organizations; mapping tools may lack species-specific detail.
+
+Budget constraints: May affect technical features and outreach scale.
+
+Time limitations: Could restrict pace of implementation and expansion.
+
+Technology constraints: Real-time monitoring systems may limit precision of coral growth tracking or marine species visibility.
+
+Platform role: Serves primarily as a crowdfunding and awareness tool; does not directly conduct scientific research or manage conservation sites.
